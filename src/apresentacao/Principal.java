@@ -6,7 +6,7 @@ import dao.UsuarioDAO;
 import model.Usuario;
 
 public class Principal {
-
+// PRIMEIRA ALTERAÇAO
 	public static void main(String[] args) {
 		Scanner input = new Scanner (System.in);
 		int opcao;
